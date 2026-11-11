@@ -10,6 +10,11 @@ Built on Rabdi testnet, served from a single Express process plus a React SPA.
 ARKIV · RABDI TESTNET      RECORD 516,304 · NEXT DEATH IN 04:12:38:07      RELAYER 0x94BD…7B05
 ```
 
+<img width="1771" height="1241" alt="Screenshot at Nov 11 23-51-19" src="https://github.com/user-attachments/assets/69e76710-15a2-41a0-9a60-1e02536059dd" />
+<img width="1768" height="921" alt="Screenshot at Nov 11 23-51-26" src="https://github.com/user-attachments/assets/9e41a581-02b2-4caa-b48b-bc310b3878c9" />
+<img width="1772" height="1241" alt="Screenshot at Nov 11 23-51-39" src="https://github.com/user-attachments/assets/205c6b62-559f-4806-9d03-36e74ee8b50a" />
+<img width="1769" height="990" alt="Screenshot at Nov 11 23-51-48" src="https://github.com/user-attachments/assets/8aba6b26-48db-4a98-a60b-c73a5256a36d" />
+
 ---
 
 ## Why this exists
