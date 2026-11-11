@@ -1,0 +1,42 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.*
+.yarn/
+
+# build output
+dist/
+dist-ssr/
+build/
+*.tsbuildinfo
+
+# secrets and local env (only the template is committed)
+.env
+.env.*
+!.env.example
+
+# runtime state written by the relayer: registry, ledger, graveyard
+data/
+
+# logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# local QA artifacts (screenshots, fixture dumps)
+preview/
+scripts/qa/out/
+.qa/
+
+# editors and OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+*~
+
+# test and coverage output
+coverage/
+.nyc_output/
